@@ -1,10 +1,10 @@
-<a href="#"><img src="#" alt="Code-with-Skay" style="width:1345px;height:300px" border="0"><p align="left"> <img src="https://komarev.com/ghpvc/?username=code-with-skay&label=Profile%20views&color=0e75b6&style=flat" alt="saqib-devops" /> </p>
+<a href="#"><img src="https://assets-global.website-files.com/62e95dddfb380a0e61193e7d/634970c7cbeed5644711b937_62fd57ccd6890f25796f92f9_AdobeStock_295461823.jpeg" alt="Code-with-Skay" style="width:1345px;height:300px" border="0"><p align="left"> <img src="https://komarev.com/ghpvc/?username=code-with-skay&label=Profile%20views&color=0e75b6&style=flat" alt="saqib-devops" /> </p>
 </a>
 <div align="center"><h1>Hi , 👋 I'm Zarar Anwar</h1></div>
   
 
-<h3> Full Stack Developer and Devops Engineer. Market Experience of almost 4 years & currently Operating as Cheif technical Officer at <a href="https://exarth.com">Exarth</a>
-    I am specialize in Full stack Development and Devops Engineering with over 4 years of experience.
+<h3> Full Stack Django and MERN Stack Developer Market Experience of almost 4 years & currently Operating as Cheif technical Officer at <a href="https://exarth.com">Exarth</a>
+    I am specialize in Full stack Development  with over 4 years of experience.
     I have strong expertise in software development from development to deployment with complete CI/CD pipe-lining for your project.
     I am always committed to providing services that is quick, accurate, and professional.
 </h3>
