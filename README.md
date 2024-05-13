@@ -1,4 +1,4 @@
-<a href="#"><img src="https://assets-global.website-files.com/62e95dddfb380a0e61193e7d/634970c7cbeed5644711b937_62fd57ccd6890f25796f92f9_AdobeStock_295461823.jpeg" alt="Code-with-Skay" style="width:1345px;height:300px" border="0"><p align="left"> <img src="https://komarev.com/ghpvc/?username=code-with-skay&label=Profile%20views&color=0e75b6&style=flat" alt="saqib-devops" /> </p>
+<a href="#"><img src="https://assets-global.website-files.com/62e95dddfb380a0e61193e7d/634970c7cbeed5644711b937_62fd57ccd6890f25796f92f9_AdobeStock_295461823.jpeg" alt="Zarar-Anwar" style="width:1345px;height:300px" border="0"><p align="left"> <img src="https://komarev.com/ghpvc/?username=zarar-anwar&label=Profile%20views&color=0e75b6&style=flat" alt="Zarar-Anwar" /> </p>
 </a>
 <div align="center"><h1>Hi , 👋 I'm Zarar Anwar</h1></div>
   
@@ -9,13 +9,13 @@
     I am always committed to providing services that is quick, accurate, and professional.
 </h3>
 <p align="center">
-- 🔭 I’m currently working on ***Project management system***
+- 🔭 I’m currently working on ***Web Systems(SAAS, IMS, PROJECT MANAGEMENT SYSTEM, CONTENT MANAGEMENT SYSTEM***
 </p>
 <p align="center">
-- 🌱 I’m currently learning **Currently Learning DevOps**
+- 🌱 I’m currently acting **CEO of Exarth Company**
 </p>
 <p align="center">
-- 💬 Ask me about **Anything**
+- 💬 Ask me about **Softwares, Leadership**
 </p>
 <p align="center">
 - 📫 How to reach me ***zararanwar1234321@gmai.com**
@@ -23,11 +23,10 @@
 <br/>
 <h3 dir="auto" align="center"><a id="user-content-connect-with-me" class="anchor" aria-hidden="true" href="#connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Connect with me:</h3>
 <p dir="auto" align="center">
-    <a href="https://www.facebook.com/saqibahmad.rahi" target="_blank" rel="nofollow"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hybridoitc" style="max-width: 100%;" width="40" height="30" align="middle"></a>
     <a href="https://instagram.com/saqib_ahmad007" target="_blank" rel="nofollow"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hybridoitc" style="max-width: 100%;" width="40" height="30" align="middle"></a>
-    <a href="https://linkedin.com/in/saqib-ahmad-62b547258" target="_blank" rel="nofollow"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hybridoitc" style="max-width: 100%;" width="40" height="30" align="middle"></a>
-    <a href="https://www.upwork.com/freelancers/~01ae5dcc5619376caa?viewMode=1" target="_blank" rel="nofollow"><img src="https://w7.pngwing.com/pngs/257/806/png-transparent-upwork-freelancer-android-android-text-trademark-rectangle-thumbnail.png" alt="hybridoitc" style="max-width: 100%;" width="40" height="40" align="middle"></a>
-    <a href="https://www.fiverr.com/saqib_ahmad786?up_rollout=true" target="_blank" rel="nofollow"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb6eYr658PmvM02yaa4-QZDP5-drFlL2RqMOmuZW3HKJm3vMGuEsLeS5Pvv58CEQksPX0&usqp=CAU" alt="hybridoitc" style="max-width: 100%;" width="40" height="40" align="middle"></a>
+    <a href="https://pk.linkedin.com/in/zarar-anwar-616359262" target="_blank" rel="nofollow"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hybridoitc" style="max-width: 100%;" width="40" height="30" align="middle"></a>
+    <a href="https://www.upwork.com/freelancers/~01160a3dc116454c82" target="_blank" rel="nofollow"><img src="https://w7.pngwing.com/pngs/257/806/png-transparent-upwork-freelancer-android-android-text-trademark-rectangle-thumbnail.png" alt="hybridoitc" style="max-width: 100%;" width="40" height="40" align="middle"></a>
+    <a href="https://www.fiverr.com/users/zarraranwar/" target="_blank" rel="nofollow"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb6eYr658PmvM02yaa4-QZDP5-drFlL2RqMOmuZW3HKJm3vMGuEsLeS5Pvv58CEQksPX0&usqp=CAU" alt="hybridoitc" style="max-width: 100%;" width="40" height="40" align="middle"></a>
 
 </p>
 
