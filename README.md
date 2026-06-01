@@ -1,115 +1,43 @@
-# ███████╗ █████╗ ██████╗  █████╗ ██████╗
-# ╚══███╔╝██╔══██╗██╔══██╗██╔══██╗██╔══██╗
-#   ███╔╝ ███████║██████╔╝███████║██████╔╝
-#  ███╔╝  ██╔══██║██╔══██╗██╔══██║██╔══██╗
-# ███████╗██║  ██║██║  ██║██║  ██║██║  ██║
-# ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,100:00ff88&text=ZARAR%20ANWAR&fontSize=60&fontColor=00ff88&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,100:00FF88&text=Zarar%20Anwar&fontSize=58&fontColor=00FF88&animation=fadeIn&fontAlignY=38"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=Red+Team+Operator;Full+Stack+Engineer;DevSecOps+Engineer;Web+Security+Researcher;Build+Break+Secure+Repeat"/>
 
 </div>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=RED+TEAM+OPERATOR;FULL+STACK+SHADOW+ARCHITECT;DEVSECOPS+ENGINEER;WEB+APPLICATION+SECURITY+RESEARCHER;OFFENSIVE+SECURITY+ENTHUSIAST" />
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF88?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ROLE-RED_TEAM_OPERATOR-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FOCUS-CYBER_SECURITY-00FF88?style=for-the-badge"/>
+</p>
 
 ---
-
-## ⚠ OPERATIONAL STATUS
 
 ```bash
 root@zarar:~# whoami
 
-Name        : Zarar Anwar
-Role        : Full Stack Engineer
-Mode        : Red Team Operations
-Status      : ONLINE
-Location    : CYBERSPACE
+Name      : Zarar Anwar
+Role      : Full Stack Engineer
+Focus     : Cybersecurity & Red Teaming
+Mission   : Build • Break • Secure • Repeat
+Status    : ONLINE
 
-Mission:
-    Build Secure Systems
-    Break Insecure Systems
-    Automate Everything
-
-Threat Level: ██████████ 100%
+Currently:
+  ↳ Building Secure SaaS Platforms
+  ↳ Researching Offensive Security
+  ↳ Learning Advanced Red Team Operations
 ```
 
----
+## ⚔ Arsenal
 
-# 🎯 CURRENT OBJECTIVES
-
-```yaml
-offensive_security:
-  - Web Application Security
-  - Red Team Operations
-  - Active Directory Research
-  - Privilege Escalation
-
-development:
-  - SaaS Platforms
-  - Enterprise Applications
-  - DevSecOps Pipelines
-  - Cloud Infrastructure
-
-research:
-  - Malware Analysis
-  - Threat Hunting
-  - Detection Engineering
-```
-
----
-
-# ⚔ RED TEAM TOOLKIT
-
-<div align="center">
-
-![Kali Linux](https://img.shields.io/badge/Kali-000000?style=for-the-badge&logo=kalilinux)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark)
-![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge)
-
-</div>
-
-### Areas of Expertise
-
-```text
-[+] Web Application Security
-[+] API Security Testing
-[+] Network Reconnaissance
-[+] Vulnerability Assessment
-[+] Secure Architecture Review
-[+] Threat Modeling
-[+] DevSecOps
-[+] Security Automation
-```
-
----
-
-# 💻 DEVELOPMENT ARSENAL
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3)
-
-### Backend
+### Development
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django)
-![NodeJS](https://img.shields.io/badge/NodeJS-000000?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-
-### Databases
-
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb)
 
@@ -121,23 +49,47 @@ research:
 ![Jenkins](https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions)
 
+### Security
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp)
+
 ---
 
-# 📡 LIVE TELEMETRY
+## 🎯 Focus Areas
+
+```text
+[+] Web Application Security
+[+] API Security Testing
+[+] Vulnerability Assessment
+[+] Red Team Operations
+[+] DevSecOps
+[+] Cloud Security
+[+] Threat Hunting
+[+] Secure Software Development
+```
+
+---
+
+## 📊 GitHub Telemetry
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=chartreuse-dark&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=chartreuse-dark&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏅 CERTIFICATION VAULT
+## 🏆 Certification Vault
 
 ```text
 [✓] Docker Essentials
@@ -152,41 +104,41 @@ research:
 
 ---
 
-# 🌐 ESTABLISH CONNECTION
+## 🌐 Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LINKEDIN-00FF88?style=for-the-badge&logo=linkedin&logoColor=black"/>
+<a href="https://www.linkedin.com/in/saqib-ahmad-7740b6253/">
+<img src="https://img.shields.io/badge/LinkedIn-00FF88?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/EMAIL-00FF88?style=for-the-badge&logo=gmail&logoColor=black"/>
+<a href="mailto:zararanwar1234321@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-00FF88?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
-<a href="https://www.fiverr.com/YOUR_FIVERR">
-<img src="https://img.shields.io/badge/FIVERR-00FF88?style=for-the-badge&logo=fiverr&logoColor=black"/>
+<a href="https://www.fiverr.com/code_with_skay">
+<img src="https://img.shields.io/badge/Fiverr-00FF88?style=for-the-badge&logo=fiverr&logoColor=black"/>
 </a>
 
-<a href="https://www.upwork.com/freelancers/YOUR_UPWORK">
-<img src="https://img.shields.io/badge/UPWORK-00FF88?style=for-the-badge&logo=upwork&logoColor=black"/>
+<a href="https://www.upwork.com/freelancers/~01ae5dcc5619376caa">
+<img src="https://img.shields.io/badge/Upwork-00FF88?style=for-the-badge&logo=upwork&logoColor=black"/>
 </a>
 
 </div>
 
 ---
 
-# 📈 CONTRIBUTION MATRIX
+## 📈 Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=matrix&no-frame=true&margin-w=10&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=matrix&no-frame=true&margin-w=10"/>
 
 </div>
 
 ---
 
-# 🐍 ACTIVITY TRACKER
+## 🐍 Contribution Graph
 
 <div align="center">
 
@@ -196,28 +148,20 @@ research:
 
 ---
 
-# 🧠 TERMINAL PHILOSOPHY
-
 ```bash
 while(alive){
     learn();
     build();
-    secure();
+    attack();
+    defend();
     repeat();
 }
 ```
 
-```text
-"The quieter you become,
-the more you are able to observe."
-
-- Offensive Security Mindset
-```
-
----
+> Building secure systems by first understanding how they break.
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=00ff88&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=00ff88&style=for-the-badge)
 
 </div>
