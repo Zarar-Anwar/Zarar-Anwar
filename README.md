@@ -39,123 +39,63 @@
 
 ## 🚀 Featured Projects
 
-> Production-grade systems I've designed, built, and deployed — solo & with teams.
+> Production systems built solo, with **Team Exarth**, **Firnas.tech**, and engineering collaborators.
 
 <br/>
 
-<div align="center">
+### 🏗️ Team & Production Projects
 
-<!-- GitHub Pin Cards — auto-updated repo stats -->
-<a href="https://github.com/Zarar-Anwar/Video-Streaming">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Zarar-Anwar&repo=Video-Streaming&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=c9d1d9&border_radius=10"/>
-</a>
-<a href="https://github.com/Zarar-Anwar/zaalasociety">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Zarar-Anwar&repo=zaalasociety&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=c9d1d9&border_radius=10"/>
-</a>
-
-<a href="https://github.com/Zarar-Anwar/education-learning">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Zarar-Anwar&repo=education-learning&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=c9d1d9&border_radius=10"/>
-</a>
-<a href="https://github.com/Zarar-Anwar/adnan-ecommerce">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Zarar-Anwar&repo=adnan-ecommerce&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=c9d1d9&border_radius=10"/>
-</a>
-
-<a href="https://github.com/Zarar-Anwar/BackendBoilerPlate">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Zarar-Anwar&repo=BackendBoilerPlate&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=c9d1d9&border_radius=10"/>
-</a>
-<a href="https://github.com/Zarar-Anwar/Learning-Management-System-LMS-">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Zarar-Anwar&repo=Learning-Management-System-LMS-&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=c9d1d9&border_radius=10"/>
-</a>
-
-</div>
+| | Project | Team | Type | Stack | Highlights |
+|:---:|:---|:---|:---|:---|:---|
+| 🎓 | [**Intern Ease**](https://github.com/IkramKhan-DevOps/intern-ease) | Exarth · Zaala | Internship Portal | `Django` `DRF` `PostgreSQL` | Student & org portals, internship management, email alerts, RBAC |
+| 🏔️ | [**GDA Tourism**](https://github.com/IkramKhan-DevOps/gda) | Team Exarth | Government / Tourism | `Django` `DRF` `PostgreSQL` | Galiyat Development Authority platform — attractions, events, dine & stay |
+| 🥜 | [**Dry Fruit Store**](https://github.com/Saqib-DevSecOps/Dry-Fruit-Ecommerce-Store) | Team Exarth | E-Commerce | `Django` `Python` `JS` | Full storefront, cart, checkout, admin & media management |
+| 🏛️ | [**Swari GB**](https://github.com/Saqib-DevSecOps/swari-gb/) | Team Exarth | Web Platform | `Django` | Government/regional platform — *repo access restricted* |
+| 🌱 | [**SeedsWild**](https://seedswild.com) | Exarth / Firnas | Live SaaS | `Django` `SaaS` | Multi-vendor marketplace — buyer/seller signup, admin, subscriptions |
+| 🔫 | [**FLD AI**](https://fldai.org) | Team Delivery | Live SaaS | `Django` `XR` `SaaS` | XR hand-measurement, subscription plans, POS, reporting & access control |
+| 🎬 | [**Video-Streaming**](https://github.com/Zarar-Anwar/Video-Streaming) | Solo | Media / SaaS | `TypeScript` `React` | Modern streaming architecture & real-time delivery |
+| 🏢 | [**Zaala Society**](https://github.com/Zarar-Anwar/zaalasociety) | Zaala | Corporate | `JavaScript` `Node.js` | Client portal, automation & service delivery platform |
 
 <br/>
 
-### 📦 More Projects
+### 🔐 Cybersecurity Projects
 
-| | Project | Type | Stack | Highlights |
+| | Project | Org | Type | Highlights |
 |:---:|:---|:---|:---|:---|
-| 🎬 | [**Video-Streaming**](https://github.com/Zarar-Anwar/Video-Streaming) | SaaS / Media | `TypeScript` `React` | Modern streaming architecture, real-time media delivery |
-| 🏢 | [**Zaala Society**](https://github.com/Zarar-Anwar/zaalasociety) | Corporate Platform | `JavaScript` `Node.js` | Client portal, service delivery & business automation |
-| 📚 | [**Education Learning**](https://github.com/Zarar-Anwar/education-learning) | LMS | `JavaScript` `MongoDB` | Courses, enrollment, student progress tracking |
-| 🛒 | [**Adnan E-Commerce**](https://github.com/Zarar-Anwar/adnan-ecommerce) | E-Commerce | `JavaScript` `Node.js` | Storefront, cart, checkout & payment flow |
-| 🍽️ | [**Restaurant System**](https://github.com/Zarar-Anwar/restaurent) | POS / Booking | `HTML` `JS` | Restaurant ordering & management module |
-| 🏥 | [**Physician Health**](https://github.com/Zarar-Anwar/physcian-health) | Healthcare | `CSS` `JS` | Patient portal & healthcare service management |
-| 📅 | [**Appointment Management**](https://github.com/Zarar-Anwar/Appointment_manaegment) | Booking System | `JavaScript` | Scheduling, reminders & admin dashboard |
-| 🚗 | [**SwiftDrive**](https://github.com/Zarar-Anwar/SwiftDrive) | Transport App | `HTML` `JS` | Ride / fleet management interface |
-| 🧠 | [**Glaucoma Detect**](https://github.com/Zarar-Anwar/glucoma_detect) | ML / Healthcare | `HTML` `Python` | Medical image classification (FYP research) |
-| 💰 | [**Investor FYP**](https://github.com/Zarar-Anwar/investor-fyp) | FinTech | `JavaScript` | Investment tracking & portfolio dashboard |
-| 🅿️ | [**Vehicle Parking FYP**](https://github.com/Zarar-Anwar/fyp-vehicle-parking) | IoT / IMS | `HTML` `JS` | Smart parking & slot management system |
-| ⚡ | [**Backend Boilerplate**](https://github.com/Zarar-Anwar/BackendBoilerPlate) | Dev Tool | `Node.js` `Express` | Reusable API starter — auth, routes, middleware |
-| 🎨 | [**Frontend Boilerplate**](https://github.com/Zarar-Anwar/frontedBoilerPlate) | Dev Tool | `React` | Rapid UI starter for production web apps |
-
----
-
-## 🤝 Collaborations & Team Work
-
-> I actively build with teams, clients, and open-source contributors — not just solo repos.
+| 🎯 | **ZettaByte Cyber Range** | ZettaByte | CTF / Red Team | Designed & played internal CTF challenges, cyber range ops, offensive security drills |
+| 🛡️ | **Horizon Security Engagements** | Horizon Tech | Enterprise Security | Vulnerability assessments, source code analysis, secure SDLC consulting |
 
 <br/>
 
-### 🔗 GitHub Collaborations
 
-<div align="center">
+## 🤝 Where I've Built
 
-| Repo | Role | Contribution |
-|:-----|:-----|:-------------|
-| [**zed0026/fahis-1**](https://github.com/zed0026/fahis-1) | **Collaborator** | Full-stack development, feature commits & codebase contributions |
-
-</div>
-
-<!-- 👇 ADD MORE GITHUB COLLABS HERE — copy the row above -->
-
-<br/>
-
-### 🏗️ Team & Client Projects
+> Shipped real products with teams — some repos moved after I left, but the live systems remain.
 
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════════════╗
-║  COMPANY / TEAM              ROLE              PROJECTS & DELIVERY        ║
-╠══════════════════════════════════════════════════════════════════════════╣
-║  Firnas.tech                 Full Stack Dev    Web apps for UK, UAE,      ║
-║                                              Australia & Qatar clients   ║
-╠══════════════════════════════════════════════════════════════════════════╣
-║  TechKnock.Tech              CTO               LMS, CRM, E-Commerce,     ║
-║                                              Healthcare, n8n automation  ║
-╠══════════════════════════════════════════════════════════════════════════╣
-║  Exarth                      CTO               SaaS, POS, Inventory      ║
-║                                              Management Systems          ║
-╠══════════════════════════════════════════════════════════════════════════╣
-║  Zaala Society               Co-Founder        Custom web apps, CRM,     ║
-║                                              n8n workflows & AI bots     ║
-╠══════════════════════════════════════════════════════════════════════════╣
-║  Horizon Tech Services       Cyber Specialist  Security assessments &    ║
-║                                              secure SDLC consulting      ║
-╠══════════════════════════════════════════════════════════════════════════╣
-║  ZettaByte                   Red Teamer        Pentesting & offensive    ║
-║                                              security engagements        ║
-╚══════════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  TEAM / COMPANY           ROLE                 KEY DELIVERIES                 ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║  Exarth (CTO)             Team Lead            Intern Ease • GDA • E-Commerce ║
+║                                              SeedsWild • Swari GB • SaaS     ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║  Firnas.tech              Full Stack Dev       UK • UAE • Australia • Qatar   ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║  TechKnock.Tech (CTO)     Team Lead            LMS • CRM • E-Commerce • n8n   ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║  Zaala Society            Co-Founder           Web apps • CRM • automation    ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║  ZettaByte                Red Teamer           CTF • Cyber Range • Pentesting║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║  Horizon Tech Services    Cyber Specialist     Assessments • Secure SDLC      ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 <br/>
-
-### 🌐 Client Delivery Highlights
-
-| Client / Market | Project Type | My Contribution |
-|:----------------|:-------------|:----------------|
-| 🇬🇧 UK | Web Application | Full-stack dev, API design, deployment |
-| 🇦🇪 UAE | Business Platform | React UI, backend integrations, CI/CD |
-| 🇦🇺 Australia | Digital Services | Scalable web architecture & delivery |
-| 🇶🇦 Qatar | Enterprise Web App | End-to-end development & integrations |
-| 🏪 SMB Clients | CRM + Automation | n8n workflows, CRM setup, AI chatbots |
-
-<!-- 👇 To add a collaborator, copy this row:
-| [@username](https://github.com/username) | Project Name | What you built together |
--->
 
 ---
 
